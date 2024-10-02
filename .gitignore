@@ -1,0 +1,42 @@
+# Temporary files
+
+*.tmp
+
+*.swp
+
+*.bak
+
+
+
+# Log files
+
+*.log
+
+
+
+# Compiled object files
+
+*.o
+
+
+# Compiled class files (Java)
+
+*.class
+
+
+
+# Build directories
+
+build/
+
+target/
+
+dist/
+
+
+
+# IDE specific files
+
+.idea/
+
+*.suo

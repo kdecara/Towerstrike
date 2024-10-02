@@ -1,0 +1,1 @@
+Towerstrike is an FPS tower defense game where the player, fights enemies and can choose to build bases to defeat incoming waves of enemies. We imagine this game having a survival mode and a campaign mode.

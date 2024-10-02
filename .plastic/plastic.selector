@@ -1,0 +1,4 @@
+repository "Towerstrike@kdecara_gmu@cloud"
+  path "/"
+    br "/main"
+    co "/main"
